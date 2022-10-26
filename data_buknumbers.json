@@ -1,0 +1,1506 @@
+{
+    "chat": {
+        "csat": {
+            "graphicName": "Chat Customer Satisfaction",
+            "average90Days": 4.542514124293785,
+            "data": [
+                {
+                    "date": "2022-10-20",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-10-19",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-10-18",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-10-17",
+                    "avg_csat": 4.8333333333
+                },
+                {
+                    "date": "2022-10-14",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-10-13",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-10-12",
+                    "avg_csat": 4.6666666667
+                },
+                {
+                    "date": "2022-10-11",
+                    "avg_csat": 3.0
+                },
+                {
+                    "date": "2022-10-07",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-10-06",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-10-05",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-10-04",
+                    "avg_csat": 4.6666666667
+                },
+                {
+                    "date": "2022-10-03",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-09-30",
+                    "avg_csat": 4.375
+                },
+                {
+                    "date": "2022-09-29",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-09-28",
+                    "avg_csat": 4.5
+                },
+                {
+                    "date": "2022-09-27",
+                    "avg_csat": 4.6666666667
+                },
+                {
+                    "date": "2022-09-26",
+                    "avg_csat": 4.6666666667
+                },
+                {
+                    "date": "2022-09-23",
+                    "avg_csat": 4.6666666667
+                },
+                {
+                    "date": "2022-09-22",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-09-21",
+                    "avg_csat": 4.25
+                },
+                {
+                    "date": "2022-09-20",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-09-15",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-09-14",
+                    "avg_csat": 4.0
+                },
+                {
+                    "date": "2022-09-13",
+                    "avg_csat": 4.75
+                },
+                {
+                    "date": "2022-09-12",
+                    "avg_csat": 4.5
+                },
+                {
+                    "date": "2022-09-09",
+                    "avg_csat": 3.0
+                },
+                {
+                    "date": "2022-09-08",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-09-07",
+                    "avg_csat": 4.6666666667
+                },
+                {
+                    "date": "2022-09-06",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-09-05",
+                    "avg_csat": 4.5
+                },
+                {
+                    "date": "2022-09-02",
+                    "avg_csat": 3.8333333333
+                },
+                {
+                    "date": "2022-09-01",
+                    "avg_csat": 3.3333333333
+                },
+                {
+                    "date": "2022-08-31",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-08-30",
+                    "avg_csat": 4.3333333333
+                },
+                {
+                    "date": "2022-08-29",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-08-26",
+                    "avg_csat": 4.0
+                },
+                {
+                    "date": "2022-08-25",
+                    "avg_csat": 3.5
+                },
+                {
+                    "date": "2022-08-24",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-08-23",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-08-22",
+                    "avg_csat": 4.2
+                },
+                {
+                    "date": "2022-08-19",
+                    "avg_csat": 3.5
+                },
+                {
+                    "date": "2022-08-18",
+                    "avg_csat": 4.0
+                },
+                {
+                    "date": "2022-08-17",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-08-16",
+                    "avg_csat": 4.25
+                },
+                {
+                    "date": "2022-08-12",
+                    "avg_csat": 4.2
+                },
+                {
+                    "date": "2022-08-11",
+                    "avg_csat": 4.4
+                },
+                {
+                    "date": "2022-08-10",
+                    "avg_csat": 4.8571428571
+                },
+                {
+                    "date": "2022-08-09",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-08-08",
+                    "avg_csat": 4.7142857143
+                },
+                {
+                    "date": "2022-08-05",
+                    "avg_csat": 4.6666666667
+                },
+                {
+                    "date": "2022-08-04",
+                    "avg_csat": 3.7142857143
+                },
+                {
+                    "date": "2022-08-03",
+                    "avg_csat": 4.75
+                },
+                {
+                    "date": "2022-08-02",
+                    "avg_csat": 4.7142857143
+                },
+                {
+                    "date": "2022-08-01",
+                    "avg_csat": 4.3333333333
+                },
+                {
+                    "date": "2022-07-29",
+                    "avg_csat": 4.0
+                },
+                {
+                    "date": "2022-07-28",
+                    "avg_csat": 4.0
+                },
+                {
+                    "date": "2022-07-27",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2022-07-26",
+                    "avg_csat": 5.0
+                }
+            ]
+        },
+        "responseTime": {
+            "graphicName": "Chat Response Time",
+            "average90Days": 157.6441888578399,
+            "data": [
+                {
+                    "date": "2022-10-21",
+                    "avg_responseTime_chat": 189.5983122363
+                },
+                {
+                    "date": "2022-10-20",
+                    "avg_responseTime_chat": 149.7647058824
+                },
+                {
+                    "date": "2022-10-19",
+                    "avg_responseTime_chat": 152.6833726415
+                },
+                {
+                    "date": "2022-10-18",
+                    "avg_responseTime_chat": 167.5025983667
+                },
+                {
+                    "date": "2022-10-17",
+                    "avg_responseTime_chat": 151.8464140731
+                },
+                {
+                    "date": "2022-10-14",
+                    "avg_responseTime_chat": 167.4853291039
+                },
+                {
+                    "date": "2022-10-13",
+                    "avg_responseTime_chat": 173.7935121647
+                },
+                {
+                    "date": "2022-10-12",
+                    "avg_responseTime_chat": 138.2953367876
+                },
+                {
+                    "date": "2022-10-11",
+                    "avg_responseTime_chat": 184.5052447552
+                },
+                {
+                    "date": "2022-10-07",
+                    "avg_responseTime_chat": 150.4745627981
+                },
+                {
+                    "date": "2022-10-06",
+                    "avg_responseTime_chat": 153.0454287337
+                },
+                {
+                    "date": "2022-10-05",
+                    "avg_responseTime_chat": 151.1984597156
+                },
+                {
+                    "date": "2022-10-04",
+                    "avg_responseTime_chat": 165.3266881029
+                },
+                {
+                    "date": "2022-10-03",
+                    "avg_responseTime_chat": 173.7323730099
+                },
+                {
+                    "date": "2022-09-30",
+                    "avg_responseTime_chat": 155.144499179
+                },
+                {
+                    "date": "2022-09-29",
+                    "avg_responseTime_chat": 166.0652591171
+                },
+                {
+                    "date": "2022-09-28",
+                    "avg_responseTime_chat": 171.8131932283
+                },
+                {
+                    "date": "2022-09-27",
+                    "avg_responseTime_chat": 150.4453632605
+                },
+                {
+                    "date": "2022-09-26",
+                    "avg_responseTime_chat": 147.8672156459
+                },
+                {
+                    "date": "2022-09-23",
+                    "avg_responseTime_chat": 185.5809294872
+                },
+                {
+                    "date": "2022-09-22",
+                    "avg_responseTime_chat": 171.6262870987
+                },
+                {
+                    "date": "2022-09-21",
+                    "avg_responseTime_chat": 184.249219563
+                },
+                {
+                    "date": "2022-09-20",
+                    "avg_responseTime_chat": 156.3665031535
+                },
+                {
+                    "date": "2022-09-15",
+                    "avg_responseTime_chat": 125.1731301939
+                },
+                {
+                    "date": "2022-09-14",
+                    "avg_responseTime_chat": 126.1947130883
+                },
+                {
+                    "date": "2022-09-13",
+                    "avg_responseTime_chat": 174.322954823
+                },
+                {
+                    "date": "2022-09-12",
+                    "avg_responseTime_chat": 181.2211004543
+                },
+                {
+                    "date": "2022-09-09",
+                    "avg_responseTime_chat": 127.7070063694
+                },
+                {
+                    "date": "2022-09-08",
+                    "avg_responseTime_chat": 180.9317858835
+                },
+                {
+                    "date": "2022-09-07",
+                    "avg_responseTime_chat": 158.0179671458
+                },
+                {
+                    "date": "2022-09-06",
+                    "avg_responseTime_chat": 170.9958772332
+                },
+                {
+                    "date": "2022-09-05",
+                    "avg_responseTime_chat": 148.3019648397
+                },
+                {
+                    "date": "2022-09-02",
+                    "avg_responseTime_chat": 185.9422249539
+                },
+                {
+                    "date": "2022-09-01",
+                    "avg_responseTime_chat": 202.8526211672
+                },
+                {
+                    "date": "2022-08-31",
+                    "avg_responseTime_chat": 168.5341365462
+                },
+                {
+                    "date": "2022-08-30",
+                    "avg_responseTime_chat": 194.386490939
+                },
+                {
+                    "date": "2022-08-29",
+                    "avg_responseTime_chat": 159.6867341502
+                },
+                {
+                    "date": "2022-08-26",
+                    "avg_responseTime_chat": 152.206557377
+                },
+                {
+                    "date": "2022-08-25",
+                    "avg_responseTime_chat": 152.2655259823
+                },
+                {
+                    "date": "2022-08-24",
+                    "avg_responseTime_chat": 156.9923119165
+                },
+                {
+                    "date": "2022-08-23",
+                    "avg_responseTime_chat": 144.6280701754
+                },
+                {
+                    "date": "2022-08-22",
+                    "avg_responseTime_chat": 174.8793208005
+                },
+                {
+                    "date": "2022-08-19",
+                    "avg_responseTime_chat": 146.2158273381
+                },
+                {
+                    "date": "2022-08-18",
+                    "avg_responseTime_chat": 138.5074031891
+                },
+                {
+                    "date": "2022-08-17",
+                    "avg_responseTime_chat": 154.5367647059
+                },
+                {
+                    "date": "2022-08-16",
+                    "avg_responseTime_chat": 143.1455847255
+                },
+                {
+                    "date": "2022-08-12",
+                    "avg_responseTime_chat": 145.6561295297
+                },
+                {
+                    "date": "2022-08-11",
+                    "avg_responseTime_chat": 158.2548780488
+                },
+                {
+                    "date": "2022-08-10",
+                    "avg_responseTime_chat": 140.680789321
+                },
+                {
+                    "date": "2022-08-09",
+                    "avg_responseTime_chat": 140.9336188437
+                },
+                {
+                    "date": "2022-08-08",
+                    "avg_responseTime_chat": 130.9170068027
+                },
+                {
+                    "date": "2022-08-05",
+                    "avg_responseTime_chat": 136.0497032641
+                },
+                {
+                    "date": "2022-08-04",
+                    "avg_responseTime_chat": 131.2857142857
+                },
+                {
+                    "date": "2022-08-03",
+                    "avg_responseTime_chat": 158.5036399735
+                },
+                {
+                    "date": "2022-08-02",
+                    "avg_responseTime_chat": 145.9532533165
+                },
+                {
+                    "date": "2022-08-01",
+                    "avg_responseTime_chat": 140.7244701349
+                },
+                {
+                    "date": "2022-07-29",
+                    "avg_responseTime_chat": 145.3482963764
+                },
+                {
+                    "date": "2022-07-28",
+                    "avg_responseTime_chat": 138.8164014688
+                },
+                {
+                    "date": "2022-07-27",
+                    "avg_responseTime_chat": 168.0487238979
+                },
+                {
+                    "date": "2022-07-26",
+                    "avg_responseTime_chat": 151.4218241042
+                }
+            ]
+        }
+    },
+    "email": {
+        "csat": {
+            "graphicName": "Email Customer Satisfaction",
+            "average90Days": 4.853086981002781,
+            "data": [
+                {
+                    "date": "2022-10-21",
+                    "avg_csat": 4.9030949893
+                },
+                {
+                    "date": "2022-10-20",
+                    "avg_csat": 4.8633597884
+                },
+                {
+                    "date": "2022-10-19",
+                    "avg_csat": 4.862795858
+                },
+                {
+                    "date": "2022-10-18",
+                    "avg_csat": 4.8531055901
+                },
+                {
+                    "date": "2022-10-17",
+                    "avg_csat": 4.8407769424
+                },
+                {
+                    "date": "2022-10-14",
+                    "avg_csat": 4.8808567604
+                },
+                {
+                    "date": "2022-10-13",
+                    "avg_csat": 4.8596162164
+                },
+                {
+                    "date": "2022-10-12",
+                    "avg_csat": 4.8708434384
+                },
+                {
+                    "date": "2022-10-11",
+                    "avg_csat": 4.7891708968
+                },
+                {
+                    "date": "2022-10-07",
+                    "avg_csat": 4.7979564869
+                },
+                {
+                    "date": "2022-10-06",
+                    "avg_csat": 4.9078966006
+                },
+                {
+                    "date": "2022-10-05",
+                    "avg_csat": 4.8759154264
+                },
+                {
+                    "date": "2022-10-04",
+                    "avg_csat": 4.8359509886
+                },
+                {
+                    "date": "2022-10-03",
+                    "avg_csat": 4.8243137255
+                },
+                {
+                    "date": "2022-09-30",
+                    "avg_csat": 4.8574343015
+                },
+                {
+                    "date": "2022-09-29",
+                    "avg_csat": 4.732989963
+                },
+                {
+                    "date": "2022-09-28",
+                    "avg_csat": 4.8168450561
+                },
+                {
+                    "date": "2022-09-27",
+                    "avg_csat": 4.9011019284
+                },
+                {
+                    "date": "2022-09-26",
+                    "avg_csat": 4.8850333333
+                },
+                {
+                    "date": "2022-09-23",
+                    "avg_csat": 4.8836462451
+                },
+                {
+                    "date": "2022-09-22",
+                    "avg_csat": 4.8684234681
+                },
+                {
+                    "date": "2022-09-21",
+                    "avg_csat": 4.7852555556
+                },
+                {
+                    "date": "2022-09-20",
+                    "avg_csat": 4.8132904333
+                },
+                {
+                    "date": "2022-09-15",
+                    "avg_csat": 4.9168518519
+                },
+                {
+                    "date": "2022-09-14",
+                    "avg_csat": 4.8759570864
+                },
+                {
+                    "date": "2022-09-13",
+                    "avg_csat": 4.8126141312
+                },
+                {
+                    "date": "2022-09-12",
+                    "avg_csat": 4.837406015
+                },
+                {
+                    "date": "2022-09-09",
+                    "avg_csat": 4.9363550519
+                },
+                {
+                    "date": "2022-09-08",
+                    "avg_csat": 4.7848347072
+                },
+                {
+                    "date": "2022-09-07",
+                    "avg_csat": 4.8689242613
+                },
+                {
+                    "date": "2022-09-06",
+                    "avg_csat": 4.8601661192
+                },
+                {
+                    "date": "2022-09-05",
+                    "avg_csat": 4.8473368842
+                },
+                {
+                    "date": "2022-09-02",
+                    "avg_csat": 4.8459965187
+                },
+                {
+                    "date": "2022-09-01",
+                    "avg_csat": 4.8229783659
+                },
+                {
+                    "date": "2022-08-31",
+                    "avg_csat": 4.8231406671
+                },
+                {
+                    "date": "2022-08-30",
+                    "avg_csat": 4.802922112
+                },
+                {
+                    "date": "2022-08-29",
+                    "avg_csat": 4.8923987021
+                },
+                {
+                    "date": "2022-08-26",
+                    "avg_csat": 4.8589322917
+                },
+                {
+                    "date": "2022-08-25",
+                    "avg_csat": 4.9153122327
+                },
+                {
+                    "date": "2022-08-24",
+                    "avg_csat": 4.9174900024
+                },
+                {
+                    "date": "2022-08-23",
+                    "avg_csat": 4.8214607247
+                },
+                {
+                    "date": "2022-08-22",
+                    "avg_csat": 4.887014157
+                },
+                {
+                    "date": "2022-08-19",
+                    "avg_csat": 4.8300397501
+                },
+                {
+                    "date": "2022-08-18",
+                    "avg_csat": 4.887822005
+                },
+                {
+                    "date": "2022-08-17",
+                    "avg_csat": 4.8944672792
+                },
+                {
+                    "date": "2022-08-16",
+                    "avg_csat": 4.9249386387
+                },
+                {
+                    "date": "2022-08-12",
+                    "avg_csat": 4.9063937675
+                },
+                {
+                    "date": "2022-08-11",
+                    "avg_csat": 4.817300352
+                },
+                {
+                    "date": "2022-08-10",
+                    "avg_csat": 4.8333899308
+                },
+                {
+                    "date": "2022-08-09",
+                    "avg_csat": 4.8581117225
+                },
+                {
+                    "date": "2022-08-08",
+                    "avg_csat": 4.7627063492
+                },
+                {
+                    "date": "2022-08-05",
+                    "avg_csat": 4.7827189645
+                },
+                {
+                    "date": "2022-08-04",
+                    "avg_csat": 4.8452529762
+                },
+                {
+                    "date": "2022-08-03",
+                    "avg_csat": 4.8644785115
+                },
+                {
+                    "date": "2022-08-02",
+                    "avg_csat": 4.8463692946
+                },
+                {
+                    "date": "2022-08-01",
+                    "avg_csat": 4.8557246942
+                },
+                {
+                    "date": "2022-07-29",
+                    "avg_csat": 4.8849893542
+                },
+                {
+                    "date": "2022-07-28",
+                    "avg_csat": 4.9043370508
+                },
+                {
+                    "date": "2022-07-27",
+                    "avg_csat": 4.7627045505
+                },
+                {
+                    "date": "2022-07-26",
+                    "avg_csat": 4.8857077937
+                }
+            ]
+        },
+        "responseTime": {
+            "graphicName": "Email Response Time",
+            "average90Days": 7959.759394072865,
+            "data": [
+                {
+                    "date": "2022-10-21",
+                    "avg_responseTime_email": 2778.8387096774
+                },
+                {
+                    "date": "2022-10-20",
+                    "avg_responseTime_email": 2634.3111111111
+                },
+                {
+                    "date": "2022-10-19",
+                    "avg_responseTime_email": 2657.6052631579
+                },
+                {
+                    "date": "2022-10-18",
+                    "avg_responseTime_email": 3599.3333333333
+                },
+                {
+                    "date": "2022-10-17",
+                    "avg_responseTime_email": 5920.5178571429
+                },
+                {
+                    "date": "2022-10-15",
+                    "avg_responseTime_email": 3408.0
+                },
+                {
+                    "date": "2022-10-14",
+                    "avg_responseTime_email": 5237.4
+                },
+                {
+                    "date": "2022-10-13",
+                    "avg_responseTime_email": 3886.1
+                },
+                {
+                    "date": "2022-10-12",
+                    "avg_responseTime_email": 3234.3829787234
+                },
+                {
+                    "date": "2022-10-11",
+                    "avg_responseTime_email": 4105.1162790698
+                },
+                {
+                    "date": "2022-10-10",
+                    "avg_responseTime_email": 6268.0
+                },
+                {
+                    "date": "2022-10-07",
+                    "avg_responseTime_email": 11862.5294117647
+                },
+                {
+                    "date": "2022-10-06",
+                    "avg_responseTime_email": 4508.2291666667
+                },
+                {
+                    "date": "2022-10-05",
+                    "avg_responseTime_email": 6931.8055555556
+                },
+                {
+                    "date": "2022-10-04",
+                    "avg_responseTime_email": 4422.2678571429
+                },
+                {
+                    "date": "2022-10-03",
+                    "avg_responseTime_email": 31885.8194444445
+                },
+                {
+                    "date": "2022-10-02",
+                    "avg_responseTime_email": 2555.0
+                },
+                {
+                    "date": "2022-10-01",
+                    "avg_responseTime_email": 4187.5
+                },
+                {
+                    "date": "2022-09-30",
+                    "avg_responseTime_email": 60006.6086956522
+                },
+                {
+                    "date": "2022-09-29",
+                    "avg_responseTime_email": 7236.35
+                },
+                {
+                    "date": "2022-09-28",
+                    "avg_responseTime_email": 2987.0714285714
+                },
+                {
+                    "date": "2022-09-27",
+                    "avg_responseTime_email": 10202.7571428571
+                },
+                {
+                    "date": "2022-09-26",
+                    "avg_responseTime_email": 5418.15
+                },
+                {
+                    "date": "2022-09-24",
+                    "avg_responseTime_email": 3920.5
+                },
+                {
+                    "date": "2022-09-23",
+                    "avg_responseTime_email": 19329.1290322581
+                },
+                {
+                    "date": "2022-09-22",
+                    "avg_responseTime_email": 4813.3137254902
+                },
+                {
+                    "date": "2022-09-21",
+                    "avg_responseTime_email": 3491.4366197183
+                },
+                {
+                    "date": "2022-09-20",
+                    "avg_responseTime_email": 9157.2972972973
+                },
+                {
+                    "date": "2022-09-16",
+                    "avg_responseTime_email": 11619.5
+                },
+                {
+                    "date": "2022-09-15",
+                    "avg_responseTime_email": 13970.3461538462
+                },
+                {
+                    "date": "2022-09-14",
+                    "avg_responseTime_email": 4038.6875
+                },
+                {
+                    "date": "2022-09-13",
+                    "avg_responseTime_email": 4623.8541666667
+                },
+                {
+                    "date": "2022-09-12",
+                    "avg_responseTime_email": 3767.8205128205
+                },
+                {
+                    "date": "2022-09-09",
+                    "avg_responseTime_email": 9496.5
+                },
+                {
+                    "date": "2022-09-08",
+                    "avg_responseTime_email": 4197.5333333333
+                },
+                {
+                    "date": "2022-09-07",
+                    "avg_responseTime_email": 5413.8292682927
+                },
+                {
+                    "date": "2022-09-06",
+                    "avg_responseTime_email": 5286.641509434
+                },
+                {
+                    "date": "2022-09-05",
+                    "avg_responseTime_email": 5468.6607142857
+                },
+                {
+                    "date": "2022-09-03",
+                    "avg_responseTime_email": 13375.3333333333
+                },
+                {
+                    "date": "2022-09-02",
+                    "avg_responseTime_email": 7153.1454545455
+                },
+                {
+                    "date": "2022-09-01",
+                    "avg_responseTime_email": 8216.7169811321
+                },
+                {
+                    "date": "2022-08-31",
+                    "avg_responseTime_email": 7736.6444444444
+                },
+                {
+                    "date": "2022-08-30",
+                    "avg_responseTime_email": 12637.7674418605
+                },
+                {
+                    "date": "2022-08-29",
+                    "avg_responseTime_email": 4262.2820512821
+                },
+                {
+                    "date": "2022-08-27",
+                    "avg_responseTime_email": 6612.5
+                },
+                {
+                    "date": "2022-08-26",
+                    "avg_responseTime_email": 7184.3870967742
+                },
+                {
+                    "date": "2022-08-25",
+                    "avg_responseTime_email": 6352.8108108108
+                },
+                {
+                    "date": "2022-08-24",
+                    "avg_responseTime_email": 4937.7674418605
+                },
+                {
+                    "date": "2022-08-23",
+                    "avg_responseTime_email": 5083.085106383
+                },
+                {
+                    "date": "2022-08-22",
+                    "avg_responseTime_email": 7069.515625
+                },
+                {
+                    "date": "2022-08-21",
+                    "avg_responseTime_email": 3595.0
+                },
+                {
+                    "date": "2022-08-20",
+                    "avg_responseTime_email": 9552.0
+                },
+                {
+                    "date": "2022-08-19",
+                    "avg_responseTime_email": 14608.1555555556
+                },
+                {
+                    "date": "2022-08-18",
+                    "avg_responseTime_email": 3723.15
+                },
+                {
+                    "date": "2022-08-17",
+                    "avg_responseTime_email": 3224.6428571429
+                },
+                {
+                    "date": "2022-08-16",
+                    "avg_responseTime_email": 9231.1388888889
+                },
+                {
+                    "date": "2022-08-12",
+                    "avg_responseTime_email": 5166.2666666667
+                },
+                {
+                    "date": "2022-08-11",
+                    "avg_responseTime_email": 5695.76
+                },
+                {
+                    "date": "2022-08-10",
+                    "avg_responseTime_email": 3849.3404255319
+                },
+                {
+                    "date": "2022-08-09",
+                    "avg_responseTime_email": 2512.4523809524
+                },
+                {
+                    "date": "2022-08-08",
+                    "avg_responseTime_email": 3628.2608695652
+                },
+                {
+                    "date": "2022-08-05",
+                    "avg_responseTime_email": 4772.25
+                },
+                {
+                    "date": "2022-08-04",
+                    "avg_responseTime_email": 6331.3076923077
+                },
+                {
+                    "date": "2022-08-03",
+                    "avg_responseTime_email": 3871.2142857143
+                },
+                {
+                    "date": "2022-08-02",
+                    "avg_responseTime_email": 3697.0612244898
+                },
+                {
+                    "date": "2022-08-01",
+                    "avg_responseTime_email": 25921.6
+                },
+                {
+                    "date": "2022-07-30",
+                    "avg_responseTime_email": 1028.5
+                },
+                {
+                    "date": "2022-07-29",
+                    "avg_responseTime_email": 2494.0555555556
+                },
+                {
+                    "date": "2022-07-28",
+                    "avg_responseTime_email": 24661.2941176471
+                },
+                {
+                    "date": "2022-07-27",
+                    "avg_responseTime_email": 3160.4117647059
+                },
+                {
+                    "date": "2022-07-26",
+                    "avg_responseTime_email": 29268.3548387097
+                }
+            ]
+        }
+    },
+    "call": {
+        "responseTime": {
+            "graphicName": "Call Response Time",
+            "average90Days": 9.898848538363934,
+            "data": [
+                {
+                    "date": "2022-10-21",
+                    "avg_answerSpeed_call": 10.0625
+                },
+                {
+                    "date": "2022-10-20",
+                    "avg_answerSpeed_call": 9.2916666667
+                },
+                {
+                    "date": "2022-10-19",
+                    "avg_answerSpeed_call": 9.7307692308
+                },
+                {
+                    "date": "2022-10-18",
+                    "avg_answerSpeed_call": 9.7
+                },
+                {
+                    "date": "2022-10-17",
+                    "avg_answerSpeed_call": 9.0666666667
+                },
+                {
+                    "date": "2022-10-14",
+                    "avg_answerSpeed_call": 9.4
+                },
+                {
+                    "date": "2022-10-13",
+                    "avg_answerSpeed_call": 8.95
+                },
+                {
+                    "date": "2022-10-12",
+                    "avg_answerSpeed_call": 9.7333333333
+                },
+                {
+                    "date": "2022-10-11",
+                    "avg_answerSpeed_call": 9.0714285714
+                },
+                {
+                    "date": "2022-10-07",
+                    "avg_answerSpeed_call": 9.3684210526
+                },
+                {
+                    "date": "2022-10-06",
+                    "avg_answerSpeed_call": 9.8918918919
+                },
+                {
+                    "date": "2022-10-05",
+                    "avg_answerSpeed_call": 9.875
+                },
+                {
+                    "date": "2022-10-04",
+                    "avg_answerSpeed_call": 10.0434782609
+                },
+                {
+                    "date": "2022-10-03",
+                    "avg_answerSpeed_call": 9.6956521739
+                },
+                {
+                    "date": "2022-09-30",
+                    "avg_answerSpeed_call": 9.3823529412
+                },
+                {
+                    "date": "2022-09-29",
+                    "avg_answerSpeed_call": 10.0
+                },
+                {
+                    "date": "2022-09-28",
+                    "avg_answerSpeed_call": 10.5
+                },
+                {
+                    "date": "2022-09-27",
+                    "avg_answerSpeed_call": 9.5714285714
+                },
+                {
+                    "date": "2022-09-26",
+                    "avg_answerSpeed_call": 10.5
+                },
+                {
+                    "date": "2022-09-23",
+                    "avg_answerSpeed_call": 10.7857142857
+                },
+                {
+                    "date": "2022-09-22",
+                    "avg_answerSpeed_call": 9.9259259259
+                },
+                {
+                    "date": "2022-09-21",
+                    "avg_answerSpeed_call": 6.9292035398
+                },
+                {
+                    "date": "2022-09-20",
+                    "avg_answerSpeed_call": 10.6666666667
+                },
+                {
+                    "date": "2022-09-15",
+                    "avg_answerSpeed_call": 9.25
+                },
+                {
+                    "date": "2022-09-14",
+                    "avg_answerSpeed_call": 9.375
+                },
+                {
+                    "date": "2022-09-13",
+                    "avg_answerSpeed_call": 10.5
+                },
+                {
+                    "date": "2022-09-12",
+                    "avg_answerSpeed_call": 10.3333333333
+                },
+                {
+                    "date": "2022-09-09",
+                    "avg_answerSpeed_call": 9.8
+                },
+                {
+                    "date": "2022-09-08",
+                    "avg_answerSpeed_call": 10.3
+                },
+                {
+                    "date": "2022-09-07",
+                    "avg_answerSpeed_call": 10.16
+                },
+                {
+                    "date": "2022-09-06",
+                    "avg_answerSpeed_call": 10.2727272727
+                },
+                {
+                    "date": "2022-09-05",
+                    "avg_answerSpeed_call": 9.4545454545
+                },
+                {
+                    "date": "2022-09-02",
+                    "avg_answerSpeed_call": 10.9523809524
+                },
+                {
+                    "date": "2022-09-01",
+                    "avg_answerSpeed_call": 9.3636363636
+                },
+                {
+                    "date": "2022-08-31",
+                    "avg_answerSpeed_call": 10.1860465116
+                },
+                {
+                    "date": "2022-08-30",
+                    "avg_answerSpeed_call": 10.3802816901
+                },
+                {
+                    "date": "2022-08-29",
+                    "avg_answerSpeed_call": 10.0
+                },
+                {
+                    "date": "2022-08-26",
+                    "avg_answerSpeed_call": 10.625
+                },
+                {
+                    "date": "2022-08-25",
+                    "avg_answerSpeed_call": 9.9047619048
+                },
+                {
+                    "date": "2022-08-24",
+                    "avg_answerSpeed_call": 9.65
+                },
+                {
+                    "date": "2022-08-23",
+                    "avg_answerSpeed_call": 9.4666666667
+                },
+                {
+                    "date": "2022-08-22",
+                    "avg_answerSpeed_call": 9.4615384615
+                },
+                {
+                    "date": "2022-08-19",
+                    "avg_answerSpeed_call": 9.88
+                },
+                {
+                    "date": "2022-08-18",
+                    "avg_answerSpeed_call": 10.0555555556
+                },
+                {
+                    "date": "2022-08-17",
+                    "avg_answerSpeed_call": 9.5185185185
+                },
+                {
+                    "date": "2022-08-16",
+                    "avg_answerSpeed_call": 9.95
+                },
+                {
+                    "date": "2022-08-12",
+                    "avg_answerSpeed_call": 9.1333333333
+                },
+                {
+                    "date": "2022-08-11",
+                    "avg_answerSpeed_call": 10.5
+                },
+                {
+                    "date": "2022-08-10",
+                    "avg_answerSpeed_call": 10.24
+                },
+                {
+                    "date": "2022-08-09",
+                    "avg_answerSpeed_call": 9.7777777778
+                },
+                {
+                    "date": "2022-08-08",
+                    "avg_answerSpeed_call": 10.36
+                },
+                {
+                    "date": "2022-08-05",
+                    "avg_answerSpeed_call": 9.5714285714
+                },
+                {
+                    "date": "2022-08-04",
+                    "avg_answerSpeed_call": 10.0476190476
+                },
+                {
+                    "date": "2022-08-03",
+                    "avg_answerSpeed_call": 9.72
+                },
+                {
+                    "date": "2022-08-02",
+                    "avg_answerSpeed_call": 10.0322580645
+                },
+                {
+                    "date": "2022-08-01",
+                    "avg_answerSpeed_call": 11.3333333333
+                },
+                {
+                    "date": "2022-07-29",
+                    "avg_answerSpeed_call": 10.4102564103
+                },
+                {
+                    "date": "2022-07-28",
+                    "avg_answerSpeed_call": 10.92
+                },
+                {
+                    "date": "2022-07-27",
+                    "avg_answerSpeed_call": 10.6086956522
+                },
+                {
+                    "date": "2022-07-26",
+                    "avg_answerSpeed_call": 10.2941176471
+                }
+            ]
+        }
+    },
+    "nps": {
+        "nps": {
+            "graphicName": "NPS clients",
+            "average90Days": 68.87689273864852,
+            "data": [
+                {
+                    "date": "2022-10-20",
+                    "npsAverage90Days": 68.8768927386
+                },
+                {
+                    "date": "2022-10-19",
+                    "npsAverage90Days": 68.9989928607
+                },
+                {
+                    "date": "2022-10-18",
+                    "npsAverage90Days": 69.2202993321
+                },
+                {
+                    "date": "2022-10-17",
+                    "npsAverage90Days": 69.3048301858
+                },
+                {
+                    "date": "2022-10-15",
+                    "npsAverage90Days": 69.1454895265
+                },
+                {
+                    "date": "2022-10-14",
+                    "npsAverage90Days": 68.7059290869
+                },
+                {
+                    "date": "2022-10-13",
+                    "npsAverage90Days": 69.0199008295
+                },
+                {
+                    "date": "2022-10-12",
+                    "npsAverage90Days": 68.4281848531
+                },
+                {
+                    "date": "2022-10-11",
+                    "npsAverage90Days": 68.8677452927
+                },
+                {
+                    "date": "2022-10-10",
+                    "npsAverage90Days": 69.1974156224
+                },
+                {
+                    "date": "2022-10-09",
+                    "npsAverage90Days": 69.3805658055
+                },
+                {
+                    "date": "2022-10-08",
+                    "npsAverage90Days": 68.7043189754
+                },
+                {
+                    "date": "2022-10-07",
+                    "npsAverage90Days": 68.4295937007
+                },
+                {
+                    "date": "2022-10-06",
+                    "npsAverage90Days": 68.3621173174
+                },
+                {
+                    "date": "2022-10-05",
+                    "npsAverage90Days": 68.6547039877
+                },
+                {
+                    "date": "2022-10-04",
+                    "npsAverage90Days": 69.2464199641
+                },
+                {
+                    "date": "2022-10-03",
+                    "npsAverage90Days": 69.0022197199
+                },
+                {
+                    "date": "2022-10-02",
+                    "npsAverage90Days": 69.2219999396
+                },
+                {
+                    "date": "2022-09-21",
+                    "npsAverage90Days": 69.2219999396
+                },
+                {
+                    "date": "2022-09-20",
+                    "npsAverage90Days": 68.9578410216
+                },
+                {
+                    "date": "2022-09-19",
+                    "npsAverage90Days": 68.9249679118
+                },
+                {
+                    "date": "2022-09-17",
+                    "npsAverage90Days": 68.3388873257
+                },
+                {
+                    "date": "2022-09-15",
+                    "npsAverage90Days": 68.0092169961
+                },
+                {
+                    "date": "2022-09-14",
+                    "npsAverage90Days": 67.8993268862
+                },
+                {
+                    "date": "2022-09-13",
+                    "npsAverage90Days": 67.9778198218
+                },
+                {
+                    "date": "2022-09-12",
+                    "npsAverage90Days": 68.160970005
+                },
+                {
+                    "date": "2022-09-11",
+                    "npsAverage90Days": 68.2449138389
+                },
+                {
+                    "date": "2022-09-09",
+                    "npsAverage90Days": 67.3814915469
+                },
+                {
+                    "date": "2022-09-08",
+                    "npsAverage90Days": 67.0969546552
+                },
+                {
+                    "date": "2022-09-07",
+                    "npsAverage90Days": 67.1128807581
+                },
+                {
+                    "date": "2022-09-06",
+                    "npsAverage90Days": 67.2594009046
+                },
+                {
+                    "date": "2022-09-05",
+                    "npsAverage90Days": 67.7786618635
+                },
+                {
+                    "date": "2022-09-04",
+                    "npsAverage90Days": 68.1294649066
+                },
+                {
+                    "date": "2022-09-02",
+                    "npsAverage90Days": 67.5800143571
+                },
+                {
+                    "date": "2022-09-01",
+                    "npsAverage90Days": 67.3236041007
+                },
+                {
+                    "date": "2022-08-22",
+                    "npsAverage90Days": 67.6513465337
+                },
+                {
+                    "date": "2022-08-21",
+                    "npsAverage90Days": 68.3106871931
+                },
+                {
+                    "date": "2022-08-20",
+                    "npsAverage90Days": 67.2117860942
+                },
+                {
+                    "date": "2022-08-19",
+                    "npsAverage90Days": 67.0744234568
+                },
+                {
+                    "date": "2022-08-18",
+                    "npsAverage90Days": 67.5453810706
+                },
+                {
+                    "date": "2022-08-17",
+                    "npsAverage90Days": 67.5224872977
+                },
+                {
+                    "date": "2022-08-16",
+                    "npsAverage90Days": 67.0798743551
+                },
+                {
+                    "date": "2022-08-13",
+                    "npsAverage90Days": 67.2761066942
+                },
+                {
+                    "date": "2022-08-12",
+                    "npsAverage90Days": 66.7266561447
+                },
+                {
+                    "date": "2022-08-11",
+                    "npsAverage90Days": 66.687208413
+                },
+                {
+                    "date": "2022-08-10",
+                    "npsAverage90Days": 67.014950846
+                },
+                {
+                    "date": "2022-08-09",
+                    "npsAverage90Days": 66.6715442526
+                },
+                {
+                    "date": "2022-08-08",
+                    "npsAverage90Days": 66.7413157509
+                },
+                {
+                    "date": "2022-08-07",
+                    "npsAverage90Days": 66.4612037061
+                },
+                {
+                    "date": "2022-08-06",
+                    "npsAverage90Days": 66.4612037061
+                },
+                {
+                    "date": "2022-08-05",
+                    "npsAverage90Days": 65.7286029735
+                },
+                {
+                    "date": "2022-08-04",
+                    "npsAverage90Days": 66.049115794
+                },
+                {
+                    "date": "2022-08-03",
+                    "npsAverage90Days": 65.7253324345
+                },
+                {
+                    "date": "2022-08-02",
+                    "npsAverage90Days": 66.4363860868
+                },
+                {
+                    "date": "2022-08-01",
+                    "npsAverage90Days": 65.7770454274
+                }
+            ]
+        }
+    }
+}
